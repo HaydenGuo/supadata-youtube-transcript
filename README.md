@@ -2,6 +2,8 @@
 
 A standalone Codex Skill for fetching and saving a single YouTube video's captions through the official Supadata Python SDK.
 
+**Tutorial:** [Download YouTube subtitles with Supadata's Python SDK](TUTORIAL.md) — setup, browser-based key entry, SDK examples, export formats, and credit guidance.
+
 ## Features
 
 - Uses the official Supadata Python SDK; no YouTube scraping or alternate transcript provider.
